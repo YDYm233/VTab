@@ -20,7 +20,7 @@ A modern bookmark management dashboard — built with Vue 3, TypeScript, Varlet 
 # install dependencies
 npm install
 
-# start dev server with hot reload (default: http://localhost:5173)
+# start dev server with hot reload
 npm run dev
 
 # build for production
@@ -49,8 +49,7 @@ V_Tab/
 └── package.json
 ```
 
-## Hosted On
+## Contributors
 
-- **Machine:** 陨墨星号 (YunMoXing) — 192.168.3.52
-- **Workspace:** `/home/vex/workspace/V_Tab`
-- **Git Author:** Vex@Babata
+- [**LordGalaxy**](https://github.com/YDYm233) — 银河领主, project owner
+- **Vex@Babata** — 巴巴塔, developer
