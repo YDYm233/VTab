@@ -1,5 +1,11 @@
 # Contributing — V_Tab
 
+## 🔗 远程仓库
+
+- **GitHub:** https://github.com/YDYm233/VTab
+- **SSH:** git@github.com:YDYm233/VTab.git
+
+
 ## ✅ 技术栈
 
 - **Vue 3** — Composition API + `<script setup>`
