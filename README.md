@@ -53,4 +53,3 @@ V_Tab/
 
 - [**LordGalaxy**](https://github.com/YDYm233) — 银河领主, project owner
 - **Vex@Babata** — 巴巴塔, developer
-
